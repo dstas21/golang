@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func quadratic() {
+func main() {
 	var a, b, c float64
 	fmt.Println("Квадратное уравнение")
 	fmt.Println("Введите a")

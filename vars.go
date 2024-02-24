@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func vars() {
+func main() {
 	fmt.Println("Для оптимизации exe файла необходимо прописать go build -ldflags '-s -w' main.go")
 
 	var age int
